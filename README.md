@@ -1,4 +1,4 @@
-# Aternos AFK Bot (Mineflayer)
+# ~~Aternos~~ AFK Bot (Mineflayer)
 
 This is a simple Node.js bot using Mineflayer that connects to your Aternos server and stays AFK by jumping every 15 seconds.
 
@@ -15,3 +15,27 @@ This is a simple Node.js bot using Mineflayer that connects to your Aternos serv
 - Server: `vanilla129.aternos.me`
 - Port: `17412`
 - Username: `AFK_Bot_123` (you can change this in `bot.js`)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hi you found me anyways
+~~[Deprecated]: This method attempted to bypass Aternos shutdown, which violates their rules.~~
