@@ -1,0 +1,12 @@
+{
+  "name": "aternos-afk-bot",
+  "version": "1.0.0",
+  "description": "Mineflayer bot that stays AFK on an Aternos server",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.5.0"
+  }
+}
